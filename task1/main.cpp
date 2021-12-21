@@ -36,10 +36,10 @@ void Testing() {
     mulAnswer = 4;
     UnitTest(firstNumber, secondNumber, sumAnswer, mulAnswer);
 
-    firstNumber = 100;
+    firstNumber = 10;
     secondNumber = 999;
-    sumAnswer = 1099;
-    mulAnswer = 99900;
+    sumAnswer = 109;
+    mulAnswer = 9990;
     UnitTest(firstNumber, secondNumber, sumAnswer, mulAnswer);
 }
 
